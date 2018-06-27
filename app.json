@@ -1,0 +1,28 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/join/join",
+    "pages/detail/detail",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#2e5e86",
+    "navigationBarTitleText": "佛山温泉酒店",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar": {
+    "selectedColor": "#2e5e86",
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "首页",
+      "iconPath":"image/home.png",
+      "selectedIconPath":"image/home_cover.png"
+    },{
+      "pagePath": "pages/join/join",
+      "text": "其他",
+      "iconPath":"image/join.png",
+      "selectedIconPath":"image/join_cover.png"
+    }]
+  }
+}

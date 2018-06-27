@@ -1,0 +1,22 @@
+<!--pages/join/join.wxml-->
+<image class='banner' src='/image/swiper_01.jpg'></image>
+
+<view class='block'>
+  <view class="block-title">关于我们</view>
+  <text class='block-desc'> 温泉度假酒店位佛山景区南牌坊西青青大道北侧，占地面积150亩，建筑面积2万平米，总投资1.8亿元。项目包括青泉文化广场、生态停车场、温泉酒店、温泉接待大厅、室内外水乐园、室内外温泉汤池、温泉主题包装及生态景观打造等。预计2018年6月份完成。
+
+项目进展：一是室内装修正在施工，已完成10%，预计春节前室内装修完成70%。二是室内正在施工。三是室外温泉汤池道路已经修好。
+  </text>
+</view>
+<view class='block'>
+  <view class="block-title">联系我们</view>
+  <text class='block-desc'>地址：河北省邯郸市永年区永合会镇新安村佛山景区
+电话：+86-0310-6861118
+传真：+86-0310-6861118
+邮编：057150
+邮箱：hdfsjq@163.com
+  </text>
+</view>
+<view class='footer'>
+  <button bindtap='tell'>电话咨询</button>
+</view>

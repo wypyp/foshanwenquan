@@ -1,0 +1,57 @@
+/**index.wxss**/
+swiper{
+  width:100%;
+  height:340rpx;
+}
+swiper image{
+  display: block;
+  width:100%;
+  height:100%;
+}
+/*items -list  */
+.items-list{
+
+}
+.pro-item{
+  overflow: hidden;
+  padding:30rpx;
+}
+.pro-logo{
+  width:190rpx;
+  height:190rpx;
+  float:left;
+}
+.pro-body{
+  margin-left:210rpx;
+}
+.pro-title{
+  color:#212121;
+  font-size: 34rpx;
+  line-height:1;
+}
+.pro-desc{
+  font-size:26rpx;
+  color:#9a9a9a;
+  line-height:1.4;
+}
+.pro-footer{
+  overflow: hidden
+}
+.btn-detail{
+  float:left;
+  width:170rpx;
+  height:52rpx;
+}
+.btn-ask{
+  width:200rpx;
+  height:52rpx;
+  float:left;
+  margin-left:20rpx;
+  font-size:26rpx;
+  line-height:52rpx;
+  color:#9a9a9a;
+}
+.btn-ask image{
+  width:100%;
+  height:100%；
+}
